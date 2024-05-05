@@ -10,10 +10,10 @@ const Footer = () => {
               <img src={Logo2} alt="company logo" width={"240px"} />
             </div>
             <div>
-              <h3 className="text-white border-b border-white font-serif mb-2 py-2">
+              {/* <h3 className="text-white border-b border-white font-serif mb-2 py-2">
                 ORGANİZASYON
-              </h3>
-              <ul className="tracking-widest text-white font-serif text-[14px] flex flex-col gap-2">
+              </h3> */}
+              {/* <ul className="tracking-widest text-white font-serif text-[14px] flex flex-col gap-2">
                 <li className="hover:cursor-pointer hover:text-gray-400">
                   Bekarlığa Veda Organizasyonu
                 </li>
@@ -29,7 +29,7 @@ const Footer = () => {
                 <li className="hover:cursor-pointer hover:text-gray-400">
                   Nişan ve Söz Organizasyonu
                 </li>
-              </ul>
+              </ul> */}
             </div>
             <div className="text-white font-serif">
               <p className="text-center tracking-widest">
